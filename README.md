@@ -2,6 +2,10 @@
 
 CustomAlertView is a customizable and reusable alert view for SwiftUI applications. It allows you to easily display alerts with custom titles, messages, buttons, and images.
 
+<img width="471" alt="Screenshot 2023-04-17 at 11 08 21 AM" src="https://user-images.githubusercontent.com/8961643/232392692-457078d0-52f7-4f45-9fe7-6d89de09aef6.png">
+<img width="471" alt="Screenshot 2023-04-17 at 11 07 33 AM" src="https://user-images.githubusercontent.com/8961643/232392752-097da355-1f2b-4ecf-b993-b0f1a3593a82.png">
+<img width="471" alt="Screenshot 2023-04-17 at 11 08 04 AM" src="https://user-images.githubusercontent.com/8961643/232392769-dba56985-959b-4b25-8f78-cb537910b26b.png">
+
 ## Features
 - Customizable title, message, and buttons
 - Option to add an image to the alert
