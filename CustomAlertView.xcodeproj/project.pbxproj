@@ -14,6 +14,8 @@
 		AEC233A029EB27C30015AA8A /* CustomAlertViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC2339F29EB27C30015AA8A /* CustomAlertViewTests.swift */; };
 		AEC233AA29EB27C30015AA8A /* CustomAlertViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC233A929EB27C30015AA8A /* CustomAlertViewUITests.swift */; };
 		AEC233AC29EB27C30015AA8A /* CustomAlertViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC233AB29EB27C30015AA8A /* CustomAlertViewUITestsLaunchTests.swift */; };
+		AEC233B929EB28C00015AA8A /* CustomAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC233B829EB28C00015AA8A /* CustomAlertView.swift */; };
+		AEC233BA29EB28C00015AA8A /* CustomAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC233B829EB28C00015AA8A /* CustomAlertView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,7 @@
 		AEC233A529EB27C30015AA8A /* CustomAlertViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomAlertViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEC233A929EB27C30015AA8A /* CustomAlertViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlertViewUITests.swift; sourceTree = "<group>"; };
 		AEC233AB29EB27C30015AA8A /* CustomAlertViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlertViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AEC233B829EB28C00015AA8A /* CustomAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlertView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +99,7 @@
 			children = (
 				AEC2338E29EB27C20015AA8A /* CustomAlertViewApp.swift */,
 				AEC2339029EB27C20015AA8A /* ContentView.swift */,
+				AEC233B829EB28C00015AA8A /* CustomAlertView.swift */,
 				AEC2339229EB27C30015AA8A /* Assets.xcassets */,
 				AEC2339429EB27C30015AA8A /* Preview Content */,
 			);
@@ -257,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEC233B929EB28C00015AA8A /* CustomAlertView.swift in Sources */,
 				AEC2339129EB27C20015AA8A /* ContentView.swift in Sources */,
 				AEC2338F29EB27C20015AA8A /* CustomAlertViewApp.swift in Sources */,
 			);
@@ -266,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEC233BA29EB28C00015AA8A /* CustomAlertView.swift in Sources */,
 				AEC233A029EB27C30015AA8A /* CustomAlertViewTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
