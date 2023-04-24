@@ -1,4 +1,4 @@
-# CustomAlertView
+# CustomAlertView-SwiftUI
 
 CustomAlertView is a customizable and reusable alert view for SwiftUI applications. It allows you to easily display alerts with custom titles, messages, buttons, and images.
 
